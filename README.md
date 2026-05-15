@@ -33,8 +33,6 @@ This project is an interactive Excel dashboard developed to analyze FNP sales pe
 ---
 
 
----
-
 ## Business Insights
 - Anniversary generated highest revenue
 - Tuesday had maximum sales
