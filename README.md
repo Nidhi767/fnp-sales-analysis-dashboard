@@ -34,7 +34,7 @@ This project is an interactive Excel dashboard developed to analyze FNP sales pe
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/dashboard-preview.png)
+![Dashboard Preview](Screenshot 2026-05-13 171455.png)
 
 ---
 
